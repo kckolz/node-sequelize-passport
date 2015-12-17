@@ -1,4 +1,4 @@
-# cross-track API
+# Node Express OAuth2 Seed Project
 node.js running [Express 4](http://expressjs.com/4x)
 
 #### 
@@ -14,4 +14,4 @@ OAuth2: [Passport](http://passportjs.org/) utilizing the [oauth2orize](https://g
 Kevin Kolz - kckolz@gmail.com
 
 ## License
-TBD
+MIT
